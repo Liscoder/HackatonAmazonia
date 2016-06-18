@@ -1,0 +1,169 @@
+#index {
+	font-family: "Raleway", arial, sans-serif;
+	background-color: rgb(50,184,105);
+}
+#app {
+	width: 320px;
+	height: 568px;	
+}
+#welcome {
+	background-image: url("../img/indexBG.jpg");
+	background-repeat: no-repeat;
+	/*background-size: 315px 488px;*/
+	background-position: 0px;
+	background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    padding-bottom: 20px;
+	padding-top: 30px;
+}
+#welcome span {
+	font-weight: 700;
+	font-size: 2em;
+	color: black;
+}
+#welcome p {
+	font-size: 1.2em;
+	font-weight: 500;
+}
+#welcome .imgLogo {
+	width: 50%;
+	margin: 40px 0 60px 0;
+}
+.butn {
+	margin-bottom: 10px;
+}
+.btnSession {
+	background-color: white;
+	border: 2px solid white;
+	border-radius: 45px;
+	padding: 10px 30px;
+	color: black;
+	font-weight: 600;
+}
+.btnRegister{
+	background-color: rgba(255,255,255,0.3);
+	border: 2px solid white;
+	border-radius: 45px;
+	padding: 10px 30px;
+	color: black;
+	font-weight: 600;
+}
+.fa-google-plus {
+	color: white;
+	cursor: pointer;
+	margin-top: 10px;
+}
+
+.bkg{
+	background-image: url('../img/bgApp.jpg');
+    width: 320px;
+    height: 502px;
+    text-align: center;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: 0px;
+}
+form{
+  padding: 20px;
+  font-weight:bold;
+}
+.lg p{
+  font-size: 30px;
+  color:rgb(194,195,200);
+}
+h1{
+  font-weight: bold;
+	font-size: 2em;
+}
+.welcome p{
+	color:rgb(236,0,41);
+	font-weight: bold;}
+.nube{
+  padding-top: 42px;
+}
+.adoptame{
+  color: white;
+  font-size: 1.2em;
+}
+
+
+
+
+#nav {
+	border-bottom: 2px solid rgb(194,195,200);
+	height: 33px;
+}
+.flechaDer {
+	width:10px;
+	padding-top: 5px;
+}
+.menuBar {
+	width:20px;
+	padding-top: 5px;
+}
+.logoAma {
+	width: 30px;
+    padding-top: 3px;
+}
+.textNav {
+	color: rgb(194,195,200);
+	padding-top: 3px;
+    font-size: 1.3em;
+}
+.formulario input {
+	border-style: none;
+    border-bottom: 2px solid rgb(194,195,200);
+    margin-bottom: 45px;
+	width: 270px;
+}
+form {
+	text-align: left;
+	margin-top: 15px;
+}
+
+.bgAppIndex {
+	background-image: url('../img/bgAllApp.jpg');
+    width: 316px;
+    height: 452px;
+    text-align: center;
+    overflow: hidden;
+    background-repeat: no-repeat;
+	background-position: 0px -110px;
+	padding: 0 22px;
+}
+.icoSad {
+	padding-top: 19px;
+    width: 34px;
+}
+
+
+
+button{
+    border-radius:10px;
+    background-color:white;
+    color:black;
+    padding:2px;
+}
+auto{
+  margin:auto;
+}
+section{
+  background:url("../img/bgApp.jpg") no-repeat;
+  width:100%;
+  height:100%;
+}
+trece{
+margin:10px 0;
+}
+iframe{
+  width:100%;
+}
+.gif{
+	width:100%;
+}
+
+
+.michi {
+	width: 50%;
+}

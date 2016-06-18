@@ -1,0 +1,25 @@
+button{
+    border-radius:10px;
+    background-color:white;
+    color:black;
+    padding:2px;
+}
+body{
+    font-size:12px;
+}
+img{
+    width:100%;
+}
+
+input{
+  width:100%;
+}
+span{
+  width:100%;
+}
+.comunidad{
+margin-bottom: 30px;
+}
+section{
+  background: url("../img/bgApp.jpg");
+}
