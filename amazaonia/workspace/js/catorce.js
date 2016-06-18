@@ -1,0 +1,1 @@
+var data = new Firebase('https://www.firebase.com/login/?&message=debugger-auth-required&next=https%3A%2F%2Fpapu.firebaseio.com%2F');
